@@ -1,0 +1,10 @@
+# Pasta de dependências do Node.js
+node_modules
+
+# Arquivos de log e cache
+npm-debug.log*
+.DS_Store # Arquivo do macOS
+Thumbs.db # Arquivo do Windows
+
+# Variáveis de ambiente e dados sensíveis (opcional, mas recomendado)
+.env
